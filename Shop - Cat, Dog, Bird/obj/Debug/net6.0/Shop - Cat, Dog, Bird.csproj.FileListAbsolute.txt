@@ -1,0 +1,18 @@
+C:\Ismayil\PROJECTS\StepIT\4.C#\5.  OOP\5.Shop-Cat-Dog-Bird\Shop - Cat, Dog, Bird\obj\Debug\net6.0\Shop - Cat, Dog, Bird.csproj.AssemblyReference.cache
+C:\Ismayil\PROJECTS\StepIT\4.C#\5.  OOP\5.Shop-Cat-Dog-Bird\Shop - Cat, Dog, Bird\obj\Debug\net6.0\Shop - Cat, Dog, Bird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ismayil\PROJECTS\StepIT\4.C#\5.  OOP\5.Shop-Cat-Dog-Bird\Shop - Cat, Dog, Bird\obj\Debug\net6.0\Shop - Cat, Dog, Bird.AssemblyInfoInputs.cache
+C:\Ismayil\PROJECTS\StepIT\4.C#\5.  OOP\5.Shop-Cat-Dog-Bird\Shop - Cat, Dog, Bird\obj\Debug\net6.0\Shop - Cat, Dog, Bird.AssemblyInfo.cs
+C:\Ismayil\PROJECTS\StepIT\4.C#\5.  OOP\5.Shop-Cat-Dog-Bird\Shop - Cat, Dog, Bird\obj\Debug\net6.0\Shop - Cat, Dog, Bird.csproj.CoreCompileInputs.cache
+C:\Ismayil\PROJECTS\StepIT\4.C#\5.  OOP\5.Shop-Cat-Dog-Bird\Shop - Cat, Dog, Bird\bin\Debug\net6.0\Shop - Cat, Dog, Bird.exe
+C:\Ismayil\PROJECTS\StepIT\4.C#\5.  OOP\5.Shop-Cat-Dog-Bird\Shop - Cat, Dog, Bird\bin\Debug\net6.0\Shop - Cat, Dog, Bird.deps.json
+C:\Ismayil\PROJECTS\StepIT\4.C#\5.  OOP\5.Shop-Cat-Dog-Bird\Shop - Cat, Dog, Bird\bin\Debug\net6.0\Shop - Cat, Dog, Bird.runtimeconfig.json
+C:\Ismayil\PROJECTS\StepIT\4.C#\5.  OOP\5.Shop-Cat-Dog-Bird\Shop - Cat, Dog, Bird\bin\Debug\net6.0\Shop - Cat, Dog, Bird.dll
+C:\Ismayil\PROJECTS\StepIT\4.C#\5.  OOP\5.Shop-Cat-Dog-Bird\Shop - Cat, Dog, Bird\bin\Debug\net6.0\Shop - Cat, Dog, Bird.pdb
+C:\Ismayil\PROJECTS\StepIT\4.C#\5.  OOP\5.Shop-Cat-Dog-Bird\Shop - Cat, Dog, Bird\obj\Debug\net6.0\Shop - Cat, Dog, Bird.dll
+C:\Ismayil\PROJECTS\StepIT\4.C#\5.  OOP\5.Shop-Cat-Dog-Bird\Shop - Cat, Dog, Bird\obj\Debug\net6.0\refint\Shop - Cat, Dog, Bird.dll
+C:\Ismayil\PROJECTS\StepIT\4.C#\5.  OOP\5.Shop-Cat-Dog-Bird\Shop - Cat, Dog, Bird\obj\Debug\net6.0\Shop - Cat, Dog, Bird.pdb
+C:\Ismayil\PROJECTS\StepIT\4.C#\5.  OOP\5.Shop-Cat-Dog-Bird\Shop - Cat, Dog, Bird\obj\Debug\net6.0\Shop - Cat, Dog, Bird.genruntimeconfig.cache
+C:\Ismayil\PROJECTS\StepIT\4.C#\5.  OOP\5.Shop-Cat-Dog-Bird\Shop - Cat, Dog, Bird\obj\Debug\net6.0\ref\Shop - Cat, Dog, Bird.dll
+C:\Ismayil\PROJECTS\StepIT\4.C#\5.  OOP\5.Shop-Cat-Dog-Bird\Shop - Cat, Dog, Bird\bin\Debug\net6.0\MyLibrary.dll
+C:\Ismayil\PROJECTS\StepIT\4.C#\5.  OOP\5.Shop-Cat-Dog-Bird\Shop - Cat, Dog, Bird\bin\Debug\net6.0\MyLibrary.pdb
+C:\Ismayil\PROJECTS\StepIT\4.C#\5.  OOP\5.Shop-Cat-Dog-Bird\Shop - Cat, Dog, Bird\obj\Debug\net6.0\Shop - Cat, Dog, Bird.csproj.CopyComplete
