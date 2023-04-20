@@ -55,12 +55,6 @@ namespace Shop___Cat__Dog__Bird
             {
                 byte menuAnimal = Menu.createMenu("Menyudan sechim edin:", methods);
                 //  If energy == 0
-                if (animal.Energy == 0)
-                {
-                    Program.ShowSleep();
-                    animal.Sleep();
-                    break;
-                }
                 switch (menuAnimal)
                 {
                     case 0:
@@ -77,6 +71,12 @@ namespace Shop___Cat__Dog__Bird
                         Thread.Sleep(5000);
                         break;
                     
+                }
+                if (animal.Energy == 0)
+                {
+                    Program.ShowSleep();
+                    animal.Sleep();
+                    break;
                 }
 
             } while (true);
